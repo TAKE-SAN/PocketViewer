@@ -6,9 +6,8 @@ AWS S3のファイルビューアーです。
 - ディレクトリ/ファイルのS3アップロード
 
 ## 使用技術
-- Nuxt.js
+- Nuxt.js(Vue.js)
 - Vuetify
-- Node.js
 
 ## Build Setup
 ``` bash
